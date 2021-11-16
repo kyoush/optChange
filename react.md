@@ -2,6 +2,8 @@
 
 - [【2021年最新】フロントエンジニア向けのアプリ開発4選 - スタバのブログ庫](https://sbucks-blog.com/program/study/05-2/)
   - [React Hooks と TypeScript で簡単 TODO アプリ - Zenn](https://zenn.dev/sprout2000/articles/60cc8f1aa08b4b)
+- [何故くそややこしいReactを勉強しないといけないのか？ - Qiita](https://qiita.com/monsoonTropicalBird/items/904e8f24ba7a816511d3)
+- [Simple Javascript Countdown Tutorial [Dev Ed] - YouTube](https://youtu.be/Rib69h2DOxg)
 
 ## React公式サイト
 
@@ -24,4 +26,4 @@
 ## TypeScriptについて
 
 - [なぜTypeScriptを使うのか？ - TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/getting-started/why-typescript)
-- 
+
